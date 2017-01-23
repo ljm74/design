@@ -1,0 +1,5 @@
+package enumaf;
+
+interface IButton {
+
+}
